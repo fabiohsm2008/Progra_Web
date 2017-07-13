@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'inicio',
     'login',
-    'preguntate',
+    'preguntatet',
 ]
 LOGIN_URL = '/'
 HOME_URL = '/inicio/'
